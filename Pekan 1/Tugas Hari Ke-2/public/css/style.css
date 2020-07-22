@@ -53,11 +53,11 @@ body {
 section {
     width: 70%;
     background-color: white;
-    margin: 10px 0 10px 0;
+    margin: 10px auto;
 }
 
 .card {
     width: 99%;
-    margin-top: 10px;
+    margin: 10px 0 0 5px;
     border-bottom: 1px solid grey;
 }
