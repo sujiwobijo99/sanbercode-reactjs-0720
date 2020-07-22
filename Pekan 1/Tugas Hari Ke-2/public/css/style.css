@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.jumbotron {
+    background-color: #ffffff;
+    padding: 10px 0 10px 0;
+    position: sticky;
+    top: 0;
+    text-align: right;
+}
+
+#logo {
+    float: left;
+    height: 3em;
+}
+
+nav {
+    padding: 5px;
+}
+
+nav li{
+    display: inline;
+    list-style-type: none;
+    margin-right: 15px;
+    color:#0055ff;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+}
+
+h3 {
+    color: #003cb3;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px 0 10px 0;
+    bottom :0;
+}
+
+body {
+    background: url('pattern.jpg');
+}
+
+section {
+    width: 70%;
+    background-color: white;
+    margin: 10px 0 10px 0;
+}
