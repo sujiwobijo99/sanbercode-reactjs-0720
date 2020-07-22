@@ -55,3 +55,9 @@ section {
     background-color: white;
     margin: 10px 0 10px 0;
 }
+
+.card {
+    width: 99%;
+    margin-top: 10px;
+    border-bottom: 1px solid grey;
+}
